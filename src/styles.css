@@ -976,28 +976,7 @@ img {
   line-height: 1.65;
 }
 
-.inspiration-note {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 9px;
-  margin-top: 25px;
-  padding: 13px 18px;
-  background: rgba(180, 134, 59, 0.08);
-  border: 1px solid rgba(180, 134, 59, 0.18);
-  border-radius: 6px;
-}
 
-.inspiration-note span {
-  color: var(--gold);
-  font-size: 15px;
-}
-
-.inspiration-note p {
-  color: #6f6a61;
-  font-size: 10px;
-  text-align: center;
-}
 
 /* =========================================================
    INSTAGRAM
@@ -1733,14 +1712,6 @@ img {
 
   .inspiration-image {
     height: 270px;
-  }
-
-  .inspiration-note {
-    align-items: flex-start;
-  }
-
-  .inspiration-note p {
-    text-align: left;
   }
 
   .instagram-header {

@@ -922,14 +922,6 @@ Thank you.`;
               ))}
             </div>
 
-            <div className="inspiration-note">
-              <span>✦</span>
-
-              <p>
-                Reference images are for design inspiration only.
-                They are not Madhav Service Paints client projects.
-              </p>
-            </div>
           </div>
         </section>
 

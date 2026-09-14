@@ -1,8 +1,6 @@
 # Madhav Service Paints — React Portfolio
 
 ## Details
-- Owner: Adtiya Kumar
-- Phone / WhatsApp: +91 95766 98008
 - Email: fastservicepaint@gmail.com
 
 ## Run
